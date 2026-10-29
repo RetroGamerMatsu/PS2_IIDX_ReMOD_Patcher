@@ -1,4 +1,6 @@
 # PS2_IIDX_ReMOD_Patcher
+このパッチはClaude Codeを用いて作られています
+
 PS2版IIDXで17 SIRIUS以降の機能を使えるようにするパッチです
 PCSX2,OPLでの動作を確認済
 
