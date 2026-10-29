@@ -1,0 +1,2 @@
+# PS2_IIDX_ReMOD_Patcher
+PS2版IIDXで17 SIRIUS以降の機能を使えるようにするパッチです
