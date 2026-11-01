@@ -14,11 +14,11 @@ US版は未定です
 
 ## 追加機能
 
-### LIFT (17 SIRIUS)
+### LIFT（17 SIRIUS）
 判定幅を上下に動かすことができます （SUDDEN+と併用可能）  
 PS2の作品はレーンカバーが1つしか指定できないのでSUDDEN+と同じものがカバーとなりますが、可能であれば別々に設定できるようにする予定です
 
-### FAST/SLOW （17　SIRIUS）
+### FAST/SLOW（17 SIRIUS）
 判定が黃GREAT以下のときのタイミングのズレを表示します
 設定方法は17 SIRIUS〜19 Lincleのものを参考にしています
 リザルト画面でのFAST/SLOWの数（20 tricoro）も実装されています
