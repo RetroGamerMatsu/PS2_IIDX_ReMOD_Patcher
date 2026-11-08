@@ -6,7 +6,7 @@ PS2版IIDXで17 SIRIUS以降の機能を使えるようにするパッチです
 PCSX2,OPLでの動作を確認済
 
 ## 現在の対応状況
-14 GOLD
+14 GOLD  
 15 DJ TROOPERS  
 16 EMPRESS + PREMIUM BEST
 
